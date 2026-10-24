@@ -1,0 +1,14 @@
+==================================================
+             MANIFES PENGIRIMAN LOGISTIK          
+==================================================
+
+Kode       | Nama Barang               | Kategori        | Berat (kg)
+-------------------------------------------------------------------
+EDX-003    | Panel Surya               | Elektronik      | 28.00     
+EDX-004    | Paket Alat Tulis          | Perlengkapan Sekolah | 12.50     
+EDX-005    | Paket Kamus Visual Anak   | Buku            | 15.00     
+-------------------------------------------------------------------
+Total Jumlah Barang : 3 barang
+Total Berat Muatan : 55.50 kg
+Armada Pengiriman  : Truk Ekspedisi
+==================================================
